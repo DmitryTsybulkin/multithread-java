@@ -1,0 +1,7 @@
+*** FIRST LOG IN SESSION 28/10/15 9:44PM ***
+Assertion error in line 1402 of C:\Caravel\DROD17\DRODLib\CurrentGame.cpp: "this->dwLevelKills >= this->wMonsterKills"
+*** 28/10/15 9:47PM ***
+Assertion error in line 1402 of C:\Caravel\DROD17\DRODLib\CurrentGame.cpp: "this->dwLevelKills >= this->wMonsterKills"
+*** FIRST LOG IN SESSION 2/11/15 9:08PM ***
+Assertion error in line 1402 of C:\Caravel\DROD17\DRODLib\CurrentGame.cpp: "this->dwLevelKills >= this->wMonsterKills"
+Assertion error in line 1402 of C:\Caravel\DROD17\DRODLib\CurrentGame.cpp: "this->dwLevelKills >= this->wMonsterKills"
